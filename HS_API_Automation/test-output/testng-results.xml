@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15286" started-at="2018-05-27T06:21:49Z" finished-at="2018-05-27T06:22:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15286" started-at="2018-05-27T06:21:49Z" finished-at="2018-05-27T06:22:04Z">
+      <class name="com.testersconnect.api.HSTestSuite">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testersconnect.api.HSTestSuite@4501b7af]" name="init" is-config="true" duration-ms="165" started-at="2018-05-27T06:21:49Z" finished-at="2018-05-27T06:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verify_Create_Company()[pri:1, instance:com.testersconnect.api.HSTestSuite@4501b7af]" name="verify_Create_Company" duration-ms="6633" started-at="2018-05-27T06:21:49Z" finished-at="2018-05-27T06:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Create_Company -->
+        <test-method status="PASS" signature="verify_Update_Company()[pri:2, instance:com.testersconnect.api.HSTestSuite@4501b7af]" name="verify_Update_Company" duration-ms="4492" started-at="2018-05-27T06:21:56Z" finished-at="2018-05-27T06:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Update_Company -->
+        <test-method status="PASS" signature="verify_Delete_Company()[pri:3, instance:com.testersconnect.api.HSTestSuite@4501b7af]" name="verify_Delete_Company" duration-ms="3717" started-at="2018-05-27T06:22:00Z" finished-at="2018-05-27T06:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Delete_Company -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:com.testersconnect.api.HSTestSuite@4501b7af]" name="cleanup" is-config="true" duration-ms="256" started-at="2018-05-27T06:22:04Z" finished-at="2018-05-27T06:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.testersconnect.api.HSTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
