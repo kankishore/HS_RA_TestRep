@@ -94,4 +94,9 @@ public class HSTestSuite extends TestCaseBase {
 		
 	}
 	
+	@Test(priority=4)
+	public void test4() {
+		System.out.println("Executing test4");
+	}
+	
 }
