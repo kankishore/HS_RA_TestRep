@@ -5,8 +5,11 @@ public class Company {
 	
 	
 	
-	public void createCompany() {
+	public int createCompany() {
 		System.out.println("Creates a Company in HubSPot");
+		int cID=0;
+		
+		return cID;
 	}
 	
 	
