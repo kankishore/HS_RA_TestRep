@@ -16,5 +16,9 @@ public class Company {
 		System.out.println("deleted Company");
 	}
 	
+	public void updateCompany() {
+		
+	}
+	
 	
 }
