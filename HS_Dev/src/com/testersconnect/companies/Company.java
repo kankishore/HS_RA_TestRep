@@ -12,5 +12,9 @@ public class Company {
 		return cID;
 	}
 	
+	public void deleteCompany() {
+		System.out.println("deleted Company");
+	}
+	
 	
 }
